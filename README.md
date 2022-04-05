@@ -10,3 +10,5 @@ SmsManager API
 SmsManager smsManager = SmsManager.getDefault();
 smsManager.sendTextMessage("phoneNo", null, "sms message", null, null);
 ```
+**Original Source + More Info**
+- See ***[TutorialsPoint](https://www.tutorialspoint.com/android/android_sending_sms.htm)***
