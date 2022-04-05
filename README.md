@@ -14,10 +14,4 @@ smsManager.sendTextMessage("phoneNo", null, "sms message", null, null);
 - See ***[TutorialsPoint](https://www.tutorialspoint.com/android/android_sending_sms.htm)***
 
 ### Layouts
-**Launch**
-
-<img width=270 height=380 src="https://user-images.githubusercontent.com/77758884/161735906-287e3467-4685-4faf-b7a5-c3f030192df0.png" >
-
-**Values input**
-
-<img width=270 height=380 src="https://user-images.githubusercontent.com/77758884/161738691-07799000-7f4c-440b-a252-0545e8d0ce93.png" >
+<img width=270 height=450 src="https://user-images.githubusercontent.com/77758884/161735906-287e3467-4685-4faf-b7a5-c3f030192df0.png" ><img width=270 height=450 src="https://user-images.githubusercontent.com/77758884/161738691-07799000-7f4c-440b-a252-0545e8d0ce93.png" >
